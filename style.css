@@ -24,7 +24,7 @@ body, html {
 }
 
 .stream {
-    width: calc(35% - 100px);
+    width: calc(50% - 100px);
     margin: 10px;
     aspect-ratio: 16 / 9; /* Set the desired aspect ratio */
     position: relative;
